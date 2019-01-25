@@ -1,0 +1,4 @@
+P1 4 code1 10
+P2 4 code2 200
+P3 4 code2 200
+P4 5 code1 460
